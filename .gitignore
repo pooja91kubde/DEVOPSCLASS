@@ -1,0 +1,8 @@
+
+add some unwanted files to untrack by git
+
+
+pooja.txt
+*.txt
+*.log
+
